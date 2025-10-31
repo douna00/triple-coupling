@@ -1,0 +1,24 @@
+单模压缩：vacuumsqueezel;vacuumsqueeze  (N=25,s = +-2.4j，kerr = 0.75)
+
+
+单模双稳Wigner：diss1(正),diss1_n（负）（N=20，sa=1,sb=+-2.4j/1.5j，kerr = 0.75,lam=0.8)
+
+
+双模wigner不加magnon耗散：two-wigner-real(psit)//two-wigner-im(psit)  (N=15,sa1,sa2=1,sb=+-2.4j,lam=0.8,kerr=0.75)
+
+
+双模wigner不加magnon耗散的期望值：double-diss(expect)-P-15，double-diss(expect)-P-12 （N=12/15，sa1,sa2=0.6, sb=+-1j，kerr=0.75,lam=0.8）
+
+
+双模wigner不加magnon耗散的期望值正负变化：expect-part//expect-part-n (N=12, sa1,sa2=0.6, sb=+-1j, kerr=0.75, lam=0.8)
+
+
+双模wigner+magnon耗散：s-adiss-dual-wigner-real/////s-adiss-dual-wigner-real（N=12,sa1,sa2=4.2, sb=2.4j, kerr=0.75, lam1,lam2=0.8,lam=2）
+
+
+双模wigner+magnon耗散的期望值：sadiss-dual-wigner-expect-p，sadiss-dual-wigner-expect-n（N=12，sa=4.2,,sb=+-2.4j，lam12集体=0.8，magnon耗散lam=2，kerr = 0.75）
+  
+
+双模wigner+magnon耗散的期望值正负变化：sadiss-dual-wigner-expect-part-P(2.4- -2.4j),sadiss-dual-wigner-expect-part-N(-2.4- 2.4j)（N=12，sa=4.2,,sb=+-2.4j，lam12集体=0.8，magnon耗散lam=2，kerr = 0.75）
+  
+s
